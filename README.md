@@ -4,10 +4,10 @@ Group for EleticaALB
 
 1st Week Plan
 
-• Get familiar with IoT devices and their use
-• Read the document about Research AmebaD RTL8722DM Mini
-• Register on https://www.amebaiot.com/en/amebad/#rtk_amb23 website and confirm the account to download material required about Datasheet and Application Note (User Guide)
-• Meeting for Questions & Answering
+Get familiar with IoT devices and their use
+Read the document about Research AmebaD RTL8722DM Mini
+Register on https://www.amebaiot.com/en/amebad/#rtk_amb23 website and confirm the account to download material required about Datasheet and Application Note (User Guide)
+Meeting for Questions & Answering
 
 2nd Week Plan
 
