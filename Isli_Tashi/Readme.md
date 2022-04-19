@@ -447,7 +447,7 @@ GAP (Generic Access Profil) is the layer that defines the topology of the BLE sy
 
 - Broadcaster role does nothing more than transmitting data to its surroundings. It does so by constantly advertising, and usually has useful data in the advertising packet, data that is meant for everyone to see. Such a device does not require a receiver, as its only role is to broadcast to others, so it never accepts connections
 
-- Observer The Observer is the opposite of the Broadcaster: it passively listens to BLE devices in its area and processes the data from the advertising packets it receives. It does not need a transmitter, as it sends nothing and is never meant to enter a connection.
+- Observer is the opposite of the Broadcaster: it passively listens to BLE devices in its area and processes the data from the advertising packets it receives. It does not need a transmitter, as it sends nothing and is never meant to enter a connection.
 
 
 ![GAP Picture](https://electropeak.com/learn/wp-content/uploads/2019/10/ESP32-BLE-advertise-resized.jpg)
